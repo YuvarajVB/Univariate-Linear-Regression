@@ -42,9 +42,9 @@ plt.show()
 ```
 ## Output
 ![Screenshot 2023-12-29 171132](https://github.com/YuvarajVB/Univariate-Linear-Regression/assets/151488375/1f262ca0-9b77-4526-9bd7-893ee33c27f6)
-
+Graph-1
 ![Screenshot 2023-12-29 171215](https://github.com/YuvarajVB/Univariate-Linear-Regression/assets/151488375/8c358e55-fc8a-43de-925d-f0697c560c61)
-
+Graph-2
 ![Screenshot 2023-12-29 171250](https://github.com/YuvarajVB/Univariate-Linear-Regression/assets/151488375/074dbdff-b978-43e0-a79b-80340f370248)
 
 
